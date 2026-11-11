@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SariSari Utang Management</string>
+    <string name="title_activity_main">SariSari Utang Management</string>
+    <string name="package_name">com.sarisari.utangmanagement</string>
+    <string name="custom_url_scheme">com.sarisari.utangmanagement</string>
+</resources>
